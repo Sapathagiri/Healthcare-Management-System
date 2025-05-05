@@ -1,14 +1,8 @@
-
-
-
-          
-I'll help you modify the README.md file for your Healthcare Management System project. Based on your project structure, I can see you have a full-stack application with separate Front-end and Back-end directories. Here's an updated README.md that reflects your actual project structure:
-
-```markdown:c:\Users\HP\Desktop\HMS\Healthcare Management System\README.md
 # Healthcare Management System (HMS)
 
 ## Description
-A comprehensive Healthcare Management System designed to streamline medical facility operations, patient management, and healthcare service delivery. This is a full-stack application with separate frontend and backend components.
+A comprehensive Healthcare Management System designed to streamline medical facility operations, patient management, and healthcare service delivery. 
+This is a full-stack application with separate frontend and backend components.
 
 ## Project Structure
 ```plaintext
@@ -119,10 +113,8 @@ npm start
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-[Your Name/Team Name]
 
-Project Link: [Add your repository URL]
+Project Link: (https://github.com/Sapathagiri/Healthcare-Management-System/)
 ```
 
 This README.md has been customized based on your actual project structure and technology stack. You should:
